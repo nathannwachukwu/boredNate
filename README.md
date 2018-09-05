@@ -1,2 +1,3 @@
-# boredNate
-I code html when i am bored 
+Portfolio Website
+
+First Project on Udacity Nanodegree Front-End Web Dev
